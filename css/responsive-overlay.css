@@ -4,7 +4,6 @@
 	box-sizing: border-box;
 	display: none;
 	visibility: hidden;
-	border: 1px solid #000;
 }
 
 .overlay:target {
@@ -30,6 +29,7 @@
 .bar {
 	max-height: 90%;
 	min-width: 100%;
+	left: 0px;
 }
 
 .bar-top {
