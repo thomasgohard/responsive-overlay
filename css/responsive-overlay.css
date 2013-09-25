@@ -11,3 +11,17 @@
 	display: block;
 	visibility: visible;
 }
+
+.panel {
+	top: 0px;
+	min-height: 100%;
+	max-width: 90%;
+}
+
+.panel-left {
+	left: 0px;
+}
+
+.panel-right {
+	right: 0px;
+}
